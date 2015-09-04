@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 16407 -->
+<scene>
+  <track model="Forest_test_track.b3d" x="0" y="0" z="0"/>
+  <object id="water" type="animation" xyz="-125.62 -7.97 162.18" hpr="-0.0 165.0 -0.0" scale="10.00 10.00 10.00" interaction="ghost" model="river.b3d" skeletal-animation="false">
+    <animated-texture name="island_water.png" dy="0.1000" />
+  </object>
+  <sun  xyz="-460.45 148.90 363.21" ambient="84 84 24"/>
+  <sky-box texture="genericskybox_top.jpg genericskybox_bottom.jpg genericskybox_east.jpg genericskybox_west.jpg genericskybox_south.jpg genericskybox_north.jpg" />
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0"  />
+  </checks>
+  <lightshaft xyz="-459.35 152.15 366.08" id="god_ray_emitter" opacity="0.70" color="255 255 255"/>
+  <default-start karts-per-row     ="3"
+                 forwards-distance ="1.50"
+                 sidewards-distance="1.80"
+                 upwards-distance  ="1.10"/>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy" xyz="95.76 -11.96 58.61" hpr="16.9 11.8 4.3" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.001" xyz="67.99 -5.65 93.42" hpr="20.0 -135.9 -5.8" scale="0.62 0.62 0.62">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.002" xyz="23.99 -4.88 97.42" hpr="20.0 -135.9 -17.8" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.003" xyz="35.63 5.28 127.15" hpr="1.6 -133.3 -4.6" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.004" xyz="71.67 1.46 153.07" hpr="20.0 -135.9 -17.8" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.005" xyz="35.94 6.81 146.84" hpr="-5.8 -133.1 0.8" scale="1.80 1.80 1.80">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.006" xyz="-18.57 36.65 195.06" hpr="20.0 -135.9 -17.8" scale="1.34 1.34 1.34">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.007" xyz="44.67 21.27 225.18" hpr="20.0 -135.9 -17.8" scale="2.20 2.20 2.20">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.008" xyz="26.27 0.14 205.38" hpr="-5.8 -133.1 0.8" scale="1.80 1.80 1.80">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.009" xyz="-21.24 13.84 98.04" hpr="-5.8 -133.1 0.8" scale="1.44 1.44 1.44">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.010" xyz="-0.37 2.00 80.88" hpr="-5.8 -133.1 0.8" scale="1.01 1.01 1.01">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.011" xyz="-209.32 -4.35 -28.66" hpr="-5.8 -133.1 0.8" scale="1.94 1.94 1.94">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.012" xyz="-201.06 5.13 104.39" hpr="-5.5 18.7 -0.6" scale="1.51 1.51 1.51">
+  </library>
+  <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.013" xyz="-191.89 -6.49 36.00" hpr="-5.5 18.7 -0.6" scale="0.93 0.93 0.93">
+  </library>
+</scene>

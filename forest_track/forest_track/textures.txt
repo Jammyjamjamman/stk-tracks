@@ -1,0 +1,31 @@
+Textures
+
+.../lossless_textures
+    grass.png
+    rock2.png
+    stk-dirt.xcf (track?)
+
+.../lib_textures
+    /generic
+        stk_generic_grassA.png (grass surface)
+
+    /nature
+        stk_grassAlpha.png (grass plant)
+        stk_rockGrayA.png
+        stk_treeTrunkA_ao.png
+
+.../textures
+    stk_generic_bedRock_a_nm.png
+    stk_generic_bedRock_a.png
+    stk_generic_dirtGrassA.png
+    stk_generic_dirtRoad_a.png (track!)
+    stk_generic_dirtRoad_b.png
+    stk_generic_grassA.png
+    stk_generic_grassB.png
+    stk_generic_rock_a_gloss.png
+    stk_generic_rock_a_nm.png
+    stk_generic_rock_a_.png
+    stktex_generic_earth_a.png
+    stk_generic_rockA.png
+    stk_generic_roots_a.png
+    stk_generic_waterRockA.png
