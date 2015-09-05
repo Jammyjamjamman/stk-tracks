@@ -1,7 +1,412 @@
 <?xml version="1.0"?>
 <!-- Generated with script from SVN rev 16407 -->
 <scene>
-  <track model="Forest_test_track.b3d" x="0" y="0" z="0"/>
+  <lod>
+   <group name="_single_lod_stklib_animGrass_a_main">
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="65.12 0.62 167.92" hpr="-18.1 -56.1 43.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="61.37 -2.06 169.41" hpr="-15.3 -11.4 48.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="15.87 0.94 209.10" hpr="-53.7 130.1 -39.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="97.11 -13.68 106.53" hpr="-74.1 -42.6 112.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="110.48 -9.91 70.91" hpr="-7.4 -178.4 19.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="91.00 -13.88 60.66" hpr="39.3 -0.7 22.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="72.18 -10.72 51.32" hpr="24.9 -6.6 2.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="36.43 -8.62 32.65" hpr="8.8 8.0 5.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="64.71 -6.60 36.78" hpr="-68.2 -107.1 72.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="12.26 -9.53 31.39" hpr="0.1 -123.9 5.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="36.43 -8.62 32.65" hpr="53.6 79.2 57.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="64.71 -6.60 36.78" hpr="37.7 63.5 39.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="101.80 -6.51 187.89" hpr="86.9 -37.6 -115.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="80.39 4.49 149.39" hpr="5.2 -167.5 9.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="101.68 5.79 153.47" hpr="18.4 130.9 -7.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="105.38 -5.24 127.02" hpr="10.0 137.1 -6.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="103.42 -1.15 142.57" hpr="-31.1 -61.0 1.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="101.68 5.79 153.47" hpr="11.9 177.4 -21.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="164.81 5.29 66.89" hpr="8.1 -53.0 6.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="146.12 -2.01 89.25" hpr="10.4 7.2 9.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="121.62 -7.04 106.63" hpr="4.8 47.4 4.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="164.81 5.29 66.89" hpr="-66.7 95.3 -53.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="146.12 -2.01 89.25" hpr="41.3 74.2 48.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="121.62 -7.04 106.63" hpr="3.6 -23.0 -0.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="142.97 -2.42 28.14" hpr="-8.3 127.0 0.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="139.58 -2.52 50.56" hpr="2.1 166.9 15.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="126.30 -5.65 70.81" hpr="2.1 -47.4 12.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="142.97 -2.42 28.14" hpr="-5.0 171.7 6.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="139.58 -2.52 50.56" hpr="2.2 -161.8 14.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="126.30 -5.65 70.81" hpr="-2.0 -133.6 15.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="142.97 -2.42 28.14" hpr="5.3 18.4 8.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="139.58 -2.52 50.56" hpr="-2.2 22.5 13.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="103.06 -7.66 46.46" hpr="22.6 -54.1 -15.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="98.50 7.38 7.00" hpr="-20.9 179.9 1.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="106.52 -1.71 27.01" hpr="24.1 -31.1 -16.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="103.06 -7.66 46.46" hpr="-13.7 161.6 -0.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="98.50 7.38 7.00" hpr="-75.0 -111.7 75.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="106.52 -1.71 27.01" hpr="-28.2 -137.6 17.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="103.06 -7.66 46.46" hpr="-13.1 172.4 1.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="98.50 7.38 7.00" hpr="-39.4 -124.3 35.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="106.52 -1.71 27.01" hpr="60.3 -66.3 -61.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="103.06 -7.66 46.46" hpr="-37.2 111.9 -31.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="34.55 -3.01 -13.67" hpr="0.0 25.6 18.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="50.01 -0.37 4.80" hpr="10.1 -1.8 12.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="60.43 -4.60 27.21" hpr="-42.7 112.1 -33.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="34.55 -3.01 -13.67" hpr="-0.0 155.3 18.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="50.01 -0.37 4.80" hpr="-13.9 136.6 3.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="60.43 -4.60 27.21" hpr="15.4 16.5 11.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="34.55 -3.01 -13.67" hpr="-0.0 140.8 18.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="124.12 -10.74 131.30" hpr="11.5 -54.5 -23.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="158.88 -7.20 109.54" hpr="97.2 -73.7 -95.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="148.65 -11.34 124.23" hpr="-27.0 -125.1 20.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="0.49 0.35 205.77" hpr="-51.1 -167.0 32.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="9.47 1.65 203.29" hpr="-39.6 -54.1 23.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="34.61 6.67 145.27" hpr="0.9 -143.8 -33.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="31.73 -12.52 112.50" hpr="-5.2 -18.2 -58.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="18.03 9.56 129.12" hpr="-17.5 -74.9 4.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="20.55 5.28 163.98" hpr="39.3 52.1 29.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="18.26 8.63 148.95" hpr="-15.4 118.4 -15.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="18.03 9.56 129.12" hpr="-17.0 74.5 -28.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="39.46 -2.73 145.85" hpr="-0.2 58.7 -78.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="47.86 -11.38 108.99" hpr="47.9 29.9 119.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-8.35 6.99 152.12" hpr="17.6 -37.8 -6.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-4.69 10.97 103.93" hpr="-10.2 -19.6 -8.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-9.76 11.57 122.92" hpr="-5.3 -173.0 -0.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="9.03 10.02 124.88" hpr="3.3 -178.1 -10.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="9.14 0.29 86.44" hpr="-21.2 14.0 -30.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-45.68 6.15 138.01" hpr="-29.9 -114.4 34.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-21.41 6.97 146.51" hpr="-14.0 -150.5 12.1" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-67.74 4.21 134.04" hpr="25.9 -81.8 -17.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-45.68 6.15 138.01" hpr="-57.6 -104.1 63.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-21.41 6.97 146.51" hpr="-13.5 -154.5 11.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-67.74 4.21 134.04" hpr="3.6 7.4 8.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-80.35 3.21 145.08" hpr="-17.1 63.7 -11.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-77.50 2.87 133.25" hpr="0.6 -139.5 11.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-74.61 6.58 158.65" hpr="36.8 115.7 36.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-80.35 3.21 145.08" hpr="-7.6 -10.3 5.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-3.46 5.59 87.07" hpr="-106.0 -65.9 91.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-72.08 6.63 115.13" hpr="-7.8 144.3 10.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-57.71 10.74 106.15" hpr="58.1 -82.9 -50.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-3.97 -7.98 42.24" hpr="-30.8 88.0 -30.6" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-18.14 -9.36 47.18" hpr="-12.9 -38.7 15.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-97.95 -2.60 136.46" hpr="-53.2 -50.9 83.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="19.86 -10.70 48.41" hpr="11.4 -29.0 -9.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-61.69 -0.02 96.33" hpr="-50.4 53.1 105.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-38.36 -4.60 73.44" hpr="-24.7 20.8 125.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-27.62 -13.58 45.75" hpr="1.9 122.1 137.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-101.52 -7.25 145.70" hpr="0.5 -45.4 173.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-55.40 12.21 172.90" hpr="26.7 155.1 7.0" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-70.49 9.17 166.23" hpr="-34.7 58.3 -27.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-86.33 11.75 183.63" hpr="-18.6 40.0 -2.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-95.97 6.36 167.01" hpr="15.4 150.9 15.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-99.34 2.66 153.26" hpr="-80.3 73.9 -67.5" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-52.84 29.31 217.95" hpr="62.6 -108.1 -46.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-62.24 20.38 196.40" hpr="34.6 121.5 41.7" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-68.76 12.76 175.77" hpr="-18.4 -9.0 8.9" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-52.84 29.31 217.95" hpr="-17.2 -20.9 20.8" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-62.24 20.38 196.40" hpr="27.2 -130.4 -10.2" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-110.98 -4.51 147.42" hpr="-140.4 31.1 -59.3" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-118.21 -2.90 165.81" hpr="-170.2 -23.6 -50.4" scale="4.52 4.52 4.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-212.65 -9.37 31.01" hpr="36.3 -113.7 -29.1" scale="3.18 3.18 3.18" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-178.43 -4.93 41.70" hpr="-83.4 -78.0 83.0" scale="0.36 0.36 0.36" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-177.28 -9.61 26.48" hpr="-28.9 -41.4 22.0" scale="4.23 4.23 4.23" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-185.41 0.81 75.36" hpr="15.6 -12.2 25.1" scale="1.30 1.30 1.30" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-189.07 -4.40 45.41" hpr="-80.6 81.4 -77.9" scale="3.85 3.85 3.85" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-166.88 1.54 63.06" hpr="28.7 -135.8 -15.4" scale="4.44 4.44 4.44" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-161.58 -3.72 48.59" hpr="18.0 -170.7 -1.9" scale="1.56 1.56 1.56" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-157.16 6.06 71.45" hpr="26.6 -140.7 -14.5" scale="1.67 1.67 1.67" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-144.04 7.65 75.31" hpr="-91.9 73.5 -95.1" scale="1.79 1.79 1.79" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-145.68 -0.82 54.58" hpr="25.1 152.2 13.4" scale="3.54 3.54 3.54" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-140.10 -4.49 45.29" hpr="-44.5 -61.8 41.6" scale="4.44 4.44 4.44" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-105.18 -1.48 64.10" hpr="4.2 -171.4 -19.3" scale="0.50 0.50 0.50" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-98.30 -5.34 53.36" hpr="-7.3 -4.2 -12.5" scale="2.70 2.70 2.70" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-124.06 -1.03 55.85" hpr="43.6 116.9 34.9" scale="3.21 3.21 3.21" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-86.99 -9.18 43.24" hpr="8.1 128.3 -3.9" scale="3.37 3.37 3.37" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-115.59 -8.69 33.93" hpr="11.9 -170.5 -4.0" scale="0.03 0.03 0.03" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-138.11 7.61 108.67" hpr="-10.6 -128.6 -0.4" scale="3.08 3.08 3.08" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-136.03 8.17 101.16" hpr="-12.7 121.4 -22.4" scale="3.97 3.97 3.97" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-100.20 -17.84 -3.39" hpr="14.1 -144.7 -4.3" scale="1.00 1.00 1.00" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-100.05 -13.71 9.69" hpr="27.9 -125.0 -20.1" scale="1.94 1.94 1.94" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-77.33 -17.02 -9.94" hpr="-55.5 -79.8 60.8" scale="2.52 2.52 2.52" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-101.06 -19.16 -7.35" hpr="-8.9 5.0 2.9" scale="3.03 3.03 3.03" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-88.64 -17.93 -32.68" hpr="52.9 81.9 56.5" scale="1.95 1.95 1.95" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-77.86 -17.14 -31.82" hpr="6.7 -45.1 -1.3" scale="4.71 4.71 4.71" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-86.10 -16.51 -41.82" hpr="-10.9 168.3 0.4" scale="1.69 1.69 1.69" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-127.62 -16.32 -26.57" hpr="11.0 -34.9 -21.4" scale="1.32 1.32 1.32" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-123.34 -19.67 -10.47" hpr="2.6 152.8 -3.6" scale="1.70 1.70 1.70" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-112.30 -17.66 -39.31" hpr="-31.0 -113.7 23.9" scale="0.16 0.16 0.16" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-82.42 -14.77 -48.07" hpr="30.6 -64.8 -27.3" scale="0.79 0.79 0.79" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-129.06 -12.31 -47.16" hpr="10.2 -4.0 -10.7" scale="2.74 2.74 2.74" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-74.67 -11.61 -65.17" hpr="-10.8 127.2 -17.3" scale="2.43 2.43 2.43" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-62.91 -15.41 -40.65" hpr="-10.4 119.5 -9.0" scale="4.51 4.51 4.51" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-142.72 -10.07 -35.03" hpr="4.0 39.4 -15.8" scale="0.51 0.51 0.51" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-138.61 -14.83 -10.47" hpr="-31.1 -116.3 4.6" scale="1.41 1.41 1.41" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-134.73 -14.43 -19.80" hpr="9.4 27.6 -17.0" scale="1.50 1.50 1.50" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-143.50 -10.52 -22.51" hpr="-20.9 -113.9 -4.0" scale="3.70 3.70 3.70" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-152.94 -7.00 -42.95" hpr="-2.0 9.8 -10.5" scale="2.07 2.07 2.07" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-227.98 -5.96 -33.72" hpr="-8.1 61.5 -5.4" scale="1.47 1.47 1.47" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-216.09 -4.57 -15.65" hpr="-0.6 64.1 -0.1" scale="1.87 1.87 1.87" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-174.33 -4.76 -31.18" hpr="-4.6 40.7 -4.7" scale="2.08 2.08 2.08" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-236.72 -7.75 -54.03" hpr="10.1 115.6 10.8" scale="3.48 3.48 3.48" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-169.38 -7.03 -51.15" hpr="85.2 -93.7 -87.6" scale="2.85 2.85 2.85" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-191.60 -4.44 -24.47" hpr="-5.5 -77.7 5.1" scale="1.11 1.11 1.11" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-191.89 -3.44 -9.08" hpr="13.1 67.2 10.6" scale="3.75 3.75 3.75" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-180.01 -3.94 -18.60" hpr="-2.7 170.3 -2.5" scale="4.89 4.89 4.89" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-185.90 -6.10 -43.08" hpr="-9.8 60.5 -8.9" scale="1.75 1.75 1.75" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-205.86 -3.77 -5.48" hpr="-4.3 -156.6 0.7" scale="4.37 4.37 4.37" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-177.61 -3.50 -12.81" hpr="15.6 66.8 11.6" scale="0.36 0.36 0.36" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-206.78 -5.18 -30.87" hpr="-10.3 65.0 -8.3" scale="0.56 0.56 0.56" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-198.20 -4.60 -1.85" hpr="-67.5 -112.7 58.1" scale="2.25 2.25 2.25" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-278.23 -7.33 10.48" hpr="-0.1 -174.3 5.4" scale="2.90 2.90 2.90" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-261.26 -5.95 20.60" hpr="-1.5 174.1 2.1" scale="0.67 0.67 0.67" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-237.38 -5.29 -15.96" hpr="-29.7 85.8 -27.6" scale="3.78 3.78 3.78" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-294.26 -9.06 -3.00" hpr="-0.5 51.4 5.3" scale="0.66 0.66 0.66" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-247.35 -6.97 -37.24" hpr="-3.5 -18.8 3.6" scale="3.67 3.67 3.67" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-250.12 -5.35 -0.09" hpr="-0.1 161.0 1.9" scale="4.94 4.94 4.94" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-241.12 -4.62 15.62" hpr="-3.3 -171.0 -0.3" scale="4.24 4.24 4.24" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-224.57 -8.36 17.25" hpr="107.3 38.1 63.3" scale="3.82 3.82 3.82" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-283.03 -8.81 46.45" hpr="1.2 20.4 6.8" scale="4.64 4.64 4.64" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-249.18 -6.10 72.46" hpr="5.0 150.6 2.9" scale="0.05 0.05 0.05" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-255.62 -6.02 45.11" hpr="1.8 3.8 -1.2" scale="2.93 2.93 2.93" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-270.78 -7.90 72.30" hpr="0.7 45.2 7.7" scale="2.83 2.83 2.83" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-286.03 -9.76 69.01" hpr="-4.0 -103.9 11.3" scale="1.95 1.95 1.95" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-268.99 -8.09 94.91" hpr="1.3 116.9 9.8" scale="3.06 3.06 3.06" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-255.94 -6.60 82.17" hpr="-5.5 54.0 0.5" scale="4.62 4.62 4.62" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-272.12 -7.09 33.91" hpr="1.0 -5.0 4.8" scale="3.84 3.84 3.84" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-284.28 -10.40 105.07" hpr="-0.0 158.4 9.0" scale="1.82 1.82 1.82" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-265.21 -7.07 113.90" hpr="1.0 -177.1 10.1" scale="4.42 4.42 4.42" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-228.79 0.27 111.45" hpr="16.3 113.3 25.7" scale="4.55 4.55 4.55" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-217.36 1.99 101.06" hpr="13.3 -163.9 4.4" scale="0.06 0.06 0.06" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-235.11 -2.27 97.58" hpr="8.9 154.1 11.0" scale="4.41 4.41 4.41" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-246.61 -3.13 120.19" hpr="3.2 129.3 14.1" scale="4.30 4.30 4.30" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-203.41 5.95 109.01" hpr="-38.5 -70.4 44.3" scale="3.23 3.23 3.23" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-233.05 -2.61 91.15" hpr="-19.4 58.6 -11.9" scale="2.96 2.96 2.96" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-221.60 2.98 125.59" hpr="3.7 -151.8 10.7" scale="4.67 4.67 4.67" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-235.18 -0.19 136.18" hpr="2.3 -177.7 12.6" scale="3.65 3.65 3.65" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-207.91 6.80 139.40" hpr="-4.1 33.9 10.3" scale="1.93 1.93 1.93" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-203.19 7.01 121.86" hpr="-7.7 -8.8 10.9" scale="2.62 2.62 2.62" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-189.32 10.91 137.86" hpr="75.2 96.0 85.1" scale="0.77 0.77 0.77" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-158.85 23.14 188.20" hpr="9.3 -168.6 7.3" scale="0.81 0.81 0.81" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-198.43 9.88 155.73" hpr="5.4 146.5 15.1" scale="3.05 3.05 3.05" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-170.70 14.08 141.70" hpr="-12.5 -44.5 14.0" scale="0.95 0.95 0.95" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-164.30 12.85 126.70" hpr="22.3 -123.6 -19.1" scale="4.14 4.14 4.14" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-179.28 11.66 128.12" hpr="10.7 159.5 9.0" scale="3.68 3.68 3.68" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-182.43 13.76 156.89" hpr="-6.3 -5.6 10.5" scale="2.25 2.25 2.25" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-153.07 13.30 133.74" hpr="69.7 -103.1 -70.5" scale="4.66 4.66 4.66" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-179.39 11.19 120.25" hpr="-17.9 48.0 -9.6" scale="0.12 0.12 0.12" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-163.03 17.25 158.44" hpr="88.1 -98.1 -80.9" scale="4.45 4.45 4.45" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-171.31 17.84 172.21" hpr="9.5 -145.5 3.9" scale="1.01 1.01 1.01" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-141.63 9.81 127.05" hpr="-24.3 26.6 -21.1" scale="0.31 0.31 0.31" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-97.82 -9.92 52.90" hpr="17.0 5.8 -178.4" scale="4.40 4.40 4.40" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-147.77 7.14 122.76" hpr="3.5 2.8 -7.1" scale="2.25 2.25 2.25" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-153.84 8.05 108.74" hpr="-6.3 -150.4 4.9" scale="4.19 4.19 4.19" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-155.54 7.20 151.94" hpr="-9.7 111.6 -20.5" scale="0.59 0.59 0.59" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-146.08 4.05 167.67" hpr="6.2 -24.2 -20.2" scale="0.17 0.17 0.17" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-139.25 1.97 170.76" hpr="-11.2 -134.2 -17.6" scale="3.15 3.15 3.15" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-140.71 3.51 159.11" hpr="-6.3 -170.8 -20.2" scale="2.87 2.87 2.87" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-153.89 6.29 161.57" hpr="-74.1 94.2 -86.4" scale="4.16 4.16 4.16" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-149.58 -5.20 176.15" hpr="-0.3 -45.2 -176.0" scale="0.77 0.77 0.77" interaction="ghost" skeletal-animation="false"/>
+    <static-object lod_distance="60" lod_group="_single_lod_stklib_animGrass_a_main" model="stklib_animGrass_a_main.b3d" xyz="-145.17 -4.88 155.11" hpr="-0.7 8.3 -174.5" scale="4.77 4.77 4.77" interaction="ghost" skeletal-animation="false"/>
+   </group>
+  </lod>
+  <track model="Forest_test_track.b3d" x="0" y="0" z="0">
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="65.12 0.62 167.92" hpr="-18.1 -56.1 43.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="61.37 -2.06 169.41" hpr="-15.3 -11.4 48.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="15.87 0.94 209.10" hpr="-53.7 130.1 -39.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="97.11 -13.68 106.53" hpr="-74.1 -42.6 112.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="110.48 -9.91 70.91" hpr="-7.4 -178.4 19.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="91.00 -13.88 60.66" hpr="39.3 -0.7 22.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="72.18 -10.72 51.32" hpr="24.9 -6.6 2.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="36.43 -8.62 32.65" hpr="8.8 8.0 5.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="64.71 -6.60 36.78" hpr="-68.2 -107.1 72.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="12.26 -9.53 31.39" hpr="0.1 -123.9 5.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="36.43 -8.62 32.65" hpr="53.6 79.2 57.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="64.71 -6.60 36.78" hpr="37.7 63.5 39.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="101.80 -6.51 187.89" hpr="86.9 -37.6 -115.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="80.39 4.49 149.39" hpr="5.2 -167.5 9.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="101.68 5.79 153.47" hpr="18.4 130.9 -7.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="105.38 -5.24 127.02" hpr="10.0 137.1 -6.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="103.42 -1.15 142.57" hpr="-31.1 -61.0 1.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="101.68 5.79 153.47" hpr="11.9 177.4 -21.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="164.81 5.29 66.89" hpr="8.1 -53.0 6.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="146.12 -2.01 89.25" hpr="10.4 7.2 9.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="121.62 -7.04 106.63" hpr="4.8 47.4 4.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="164.81 5.29 66.89" hpr="-66.7 95.3 -53.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="146.12 -2.01 89.25" hpr="41.3 74.2 48.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="121.62 -7.04 106.63" hpr="3.6 -23.0 -0.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="142.97 -2.42 28.14" hpr="-8.3 127.0 0.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="139.58 -2.52 50.56" hpr="2.1 166.9 15.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="126.30 -5.65 70.81" hpr="2.1 -47.4 12.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="142.97 -2.42 28.14" hpr="-5.0 171.7 6.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="139.58 -2.52 50.56" hpr="2.2 -161.8 14.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="126.30 -5.65 70.81" hpr="-2.0 -133.6 15.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="142.97 -2.42 28.14" hpr="5.3 18.4 8.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="139.58 -2.52 50.56" hpr="-2.2 22.5 13.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="103.06 -7.66 46.46" hpr="22.6 -54.1 -15.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="98.50 7.38 7.00" hpr="-20.9 179.9 1.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="106.52 -1.71 27.01" hpr="24.1 -31.1 -16.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="103.06 -7.66 46.46" hpr="-13.7 161.6 -0.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="98.50 7.38 7.00" hpr="-75.0 -111.7 75.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="106.52 -1.71 27.01" hpr="-28.2 -137.6 17.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="103.06 -7.66 46.46" hpr="-13.1 172.4 1.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="98.50 7.38 7.00" hpr="-39.4 -124.3 35.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="106.52 -1.71 27.01" hpr="60.3 -66.3 -61.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="103.06 -7.66 46.46" hpr="-37.2 111.9 -31.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="34.55 -3.01 -13.67" hpr="0.0 25.6 18.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="50.01 -0.37 4.80" hpr="10.1 -1.8 12.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="60.43 -4.60 27.21" hpr="-42.7 112.1 -33.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="34.55 -3.01 -13.67" hpr="-0.0 155.3 18.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="50.01 -0.37 4.80" hpr="-13.9 136.6 3.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="60.43 -4.60 27.21" hpr="15.4 16.5 11.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="34.55 -3.01 -13.67" hpr="-0.0 140.8 18.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="124.12 -10.74 131.30" hpr="11.5 -54.5 -23.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="158.88 -7.20 109.54" hpr="97.2 -73.7 -95.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="148.65 -11.34 124.23" hpr="-27.0 -125.1 20.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="0.49 0.35 205.77" hpr="-51.1 -167.0 32.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="9.47 1.65 203.29" hpr="-39.6 -54.1 23.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="34.61 6.67 145.27" hpr="0.9 -143.8 -33.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="31.73 -12.52 112.50" hpr="-5.2 -18.2 -58.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="18.03 9.56 129.12" hpr="-17.5 -74.9 4.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="20.55 5.28 163.98" hpr="39.3 52.1 29.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="18.26 8.63 148.95" hpr="-15.4 118.4 -15.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="18.03 9.56 129.12" hpr="-17.0 74.5 -28.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="39.46 -2.73 145.85" hpr="-0.2 58.7 -78.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="47.86 -11.38 108.99" hpr="47.9 29.9 119.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-8.35 6.99 152.12" hpr="17.6 -37.8 -6.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-4.69 10.97 103.93" hpr="-10.2 -19.6 -8.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-9.76 11.57 122.92" hpr="-5.3 -173.0 -0.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="9.03 10.02 124.88" hpr="3.3 -178.1 -10.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="9.14 0.29 86.44" hpr="-21.2 14.0 -30.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-45.68 6.15 138.01" hpr="-29.9 -114.4 34.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-21.41 6.97 146.51" hpr="-14.0 -150.5 12.1" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-67.74 4.21 134.04" hpr="25.9 -81.8 -17.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-45.68 6.15 138.01" hpr="-57.6 -104.1 63.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-21.41 6.97 146.51" hpr="-13.5 -154.5 11.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-67.74 4.21 134.04" hpr="3.6 7.4 8.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-80.35 3.21 145.08" hpr="-17.1 63.7 -11.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-77.50 2.87 133.25" hpr="0.6 -139.5 11.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-74.61 6.58 158.65" hpr="36.8 115.7 36.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-80.35 3.21 145.08" hpr="-7.6 -10.3 5.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-3.46 5.59 87.07" hpr="-106.0 -65.9 91.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-72.08 6.63 115.13" hpr="-7.8 144.3 10.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-57.71 10.74 106.15" hpr="58.1 -82.9 -50.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-3.97 -7.98 42.24" hpr="-30.8 88.0 -30.6" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-18.14 -9.36 47.18" hpr="-12.9 -38.7 15.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-97.95 -2.60 136.46" hpr="-53.2 -50.9 83.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="19.86 -10.70 48.41" hpr="11.4 -29.0 -9.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-61.69 -0.02 96.33" hpr="-50.4 53.1 105.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-38.36 -4.60 73.44" hpr="-24.7 20.8 125.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-27.62 -13.58 45.75" hpr="1.9 122.1 137.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-101.52 -7.25 145.70" hpr="0.5 -45.4 173.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-55.40 12.21 172.90" hpr="26.7 155.1 7.0" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-70.49 9.17 166.23" hpr="-34.7 58.3 -27.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-86.33 11.75 183.63" hpr="-18.6 40.0 -2.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-95.97 6.36 167.01" hpr="15.4 150.9 15.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-99.34 2.66 153.26" hpr="-80.3 73.9 -67.5" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-52.84 29.31 217.95" hpr="62.6 -108.1 -46.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-62.24 20.38 196.40" hpr="34.6 121.5 41.7" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-68.76 12.76 175.77" hpr="-18.4 -9.0 8.9" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-52.84 29.31 217.95" hpr="-17.2 -20.9 20.8" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-62.24 20.38 196.40" hpr="27.2 -130.4 -10.2" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-110.98 -4.51 147.42" hpr="-140.4 31.1 -59.3" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-118.21 -2.90 165.81" hpr="-170.2 -23.6 -50.4" scale="4.52 4.52 4.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-212.65 -9.37 31.01" hpr="36.3 -113.7 -29.1" scale="3.18 3.18 3.18"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-178.43 -4.93 41.70" hpr="-83.4 -78.0 83.0" scale="0.36 0.36 0.36"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-177.28 -9.61 26.48" hpr="-28.9 -41.4 22.0" scale="4.23 4.23 4.23"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-185.41 0.81 75.36" hpr="15.6 -12.2 25.1" scale="1.30 1.30 1.30"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-189.07 -4.40 45.41" hpr="-80.6 81.4 -77.9" scale="3.85 3.85 3.85"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-166.88 1.54 63.06" hpr="28.7 -135.8 -15.4" scale="4.44 4.44 4.44"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-161.58 -3.72 48.59" hpr="18.0 -170.7 -1.9" scale="1.56 1.56 1.56"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-157.16 6.06 71.45" hpr="26.6 -140.7 -14.5" scale="1.67 1.67 1.67"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-144.04 7.65 75.31" hpr="-91.9 73.5 -95.1" scale="1.79 1.79 1.79"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-145.68 -0.82 54.58" hpr="25.1 152.2 13.4" scale="3.54 3.54 3.54"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-140.10 -4.49 45.29" hpr="-44.5 -61.8 41.6" scale="4.44 4.44 4.44"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-105.18 -1.48 64.10" hpr="4.2 -171.4 -19.3" scale="0.50 0.50 0.50"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-98.30 -5.34 53.36" hpr="-7.3 -4.2 -12.5" scale="2.70 2.70 2.70"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-124.06 -1.03 55.85" hpr="43.6 116.9 34.9" scale="3.21 3.21 3.21"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-86.99 -9.18 43.24" hpr="8.1 128.3 -3.9" scale="3.37 3.37 3.37"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-115.59 -8.69 33.93" hpr="11.9 -170.5 -4.0" scale="0.03 0.03 0.03"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-138.11 7.61 108.67" hpr="-10.6 -128.6 -0.4" scale="3.08 3.08 3.08"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-136.03 8.17 101.16" hpr="-12.7 121.4 -22.4" scale="3.97 3.97 3.97"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-100.20 -17.84 -3.39" hpr="14.1 -144.7 -4.3" scale="1.00 1.00 1.00"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-100.05 -13.71 9.69" hpr="27.9 -125.0 -20.1" scale="1.94 1.94 1.94"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-77.33 -17.02 -9.94" hpr="-55.5 -79.8 60.8" scale="2.52 2.52 2.52"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-101.06 -19.16 -7.35" hpr="-8.9 5.0 2.9" scale="3.03 3.03 3.03"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-88.64 -17.93 -32.68" hpr="52.9 81.9 56.5" scale="1.95 1.95 1.95"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-77.86 -17.14 -31.82" hpr="6.7 -45.1 -1.3" scale="4.71 4.71 4.71"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-86.10 -16.51 -41.82" hpr="-10.9 168.3 0.4" scale="1.69 1.69 1.69"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-127.62 -16.32 -26.57" hpr="11.0 -34.9 -21.4" scale="1.32 1.32 1.32"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-123.34 -19.67 -10.47" hpr="2.6 152.8 -3.6" scale="1.70 1.70 1.70"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-112.30 -17.66 -39.31" hpr="-31.0 -113.7 23.9" scale="0.16 0.16 0.16"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-82.42 -14.77 -48.07" hpr="30.6 -64.8 -27.3" scale="0.79 0.79 0.79"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-129.06 -12.31 -47.16" hpr="10.2 -4.0 -10.7" scale="2.74 2.74 2.74"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-74.67 -11.61 -65.17" hpr="-10.8 127.2 -17.3" scale="2.43 2.43 2.43"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-62.91 -15.41 -40.65" hpr="-10.4 119.5 -9.0" scale="4.51 4.51 4.51"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-142.72 -10.07 -35.03" hpr="4.0 39.4 -15.8" scale="0.51 0.51 0.51"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-138.61 -14.83 -10.47" hpr="-31.1 -116.3 4.6" scale="1.41 1.41 1.41"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-134.73 -14.43 -19.80" hpr="9.4 27.6 -17.0" scale="1.50 1.50 1.50"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-143.50 -10.52 -22.51" hpr="-20.9 -113.9 -4.0" scale="3.70 3.70 3.70"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-152.94 -7.00 -42.95" hpr="-2.0 9.8 -10.5" scale="2.07 2.07 2.07"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-227.98 -5.96 -33.72" hpr="-8.1 61.5 -5.4" scale="1.47 1.47 1.47"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-216.09 -4.57 -15.65" hpr="-0.6 64.1 -0.1" scale="1.87 1.87 1.87"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-174.33 -4.76 -31.18" hpr="-4.6 40.7 -4.7" scale="2.08 2.08 2.08"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-236.72 -7.75 -54.03" hpr="10.1 115.6 10.8" scale="3.48 3.48 3.48"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-169.38 -7.03 -51.15" hpr="85.2 -93.7 -87.6" scale="2.85 2.85 2.85"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-191.60 -4.44 -24.47" hpr="-5.5 -77.7 5.1" scale="1.11 1.11 1.11"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-191.89 -3.44 -9.08" hpr="13.1 67.2 10.6" scale="3.75 3.75 3.75"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-180.01 -3.94 -18.60" hpr="-2.7 170.3 -2.5" scale="4.89 4.89 4.89"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-185.90 -6.10 -43.08" hpr="-9.8 60.5 -8.9" scale="1.75 1.75 1.75"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-205.86 -3.77 -5.48" hpr="-4.3 -156.6 0.7" scale="4.37 4.37 4.37"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-177.61 -3.50 -12.81" hpr="15.6 66.8 11.6" scale="0.36 0.36 0.36"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-206.78 -5.18 -30.87" hpr="-10.3 65.0 -8.3" scale="0.56 0.56 0.56"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-198.20 -4.60 -1.85" hpr="-67.5 -112.7 58.1" scale="2.25 2.25 2.25"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-278.23 -7.33 10.48" hpr="-0.1 -174.3 5.4" scale="2.90 2.90 2.90"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-261.26 -5.95 20.60" hpr="-1.5 174.1 2.1" scale="0.67 0.67 0.67"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-237.38 -5.29 -15.96" hpr="-29.7 85.8 -27.6" scale="3.78 3.78 3.78"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-294.26 -9.06 -3.00" hpr="-0.5 51.4 5.3" scale="0.66 0.66 0.66"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-247.35 -6.97 -37.24" hpr="-3.5 -18.8 3.6" scale="3.67 3.67 3.67"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-250.12 -5.35 -0.09" hpr="-0.1 161.0 1.9" scale="4.94 4.94 4.94"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-241.12 -4.62 15.62" hpr="-3.3 -171.0 -0.3" scale="4.24 4.24 4.24"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-224.57 -8.36 17.25" hpr="107.3 38.1 63.3" scale="3.82 3.82 3.82"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-283.03 -8.81 46.45" hpr="1.2 20.4 6.8" scale="4.64 4.64 4.64"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-249.18 -6.10 72.46" hpr="5.0 150.6 2.9" scale="0.05 0.05 0.05"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-255.62 -6.02 45.11" hpr="1.8 3.8 -1.2" scale="2.93 2.93 2.93"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-270.78 -7.90 72.30" hpr="0.7 45.2 7.7" scale="2.83 2.83 2.83"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-286.03 -9.76 69.01" hpr="-4.0 -103.9 11.3" scale="1.95 1.95 1.95"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-268.99 -8.09 94.91" hpr="1.3 116.9 9.8" scale="3.06 3.06 3.06"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-255.94 -6.60 82.17" hpr="-5.5 54.0 0.5" scale="4.62 4.62 4.62"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-272.12 -7.09 33.91" hpr="1.0 -5.0 4.8" scale="3.84 3.84 3.84"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-284.28 -10.40 105.07" hpr="-0.0 158.4 9.0" scale="1.82 1.82 1.82"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-265.21 -7.07 113.90" hpr="1.0 -177.1 10.1" scale="4.42 4.42 4.42"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-228.79 0.27 111.45" hpr="16.3 113.3 25.7" scale="4.55 4.55 4.55"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-217.36 1.99 101.06" hpr="13.3 -163.9 4.4" scale="0.06 0.06 0.06"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-235.11 -2.27 97.58" hpr="8.9 154.1 11.0" scale="4.41 4.41 4.41"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-246.61 -3.13 120.19" hpr="3.2 129.3 14.1" scale="4.30 4.30 4.30"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-203.41 5.95 109.01" hpr="-38.5 -70.4 44.3" scale="3.23 3.23 3.23"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-233.05 -2.61 91.15" hpr="-19.4 58.6 -11.9" scale="2.96 2.96 2.96"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-221.60 2.98 125.59" hpr="3.7 -151.8 10.7" scale="4.67 4.67 4.67"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-235.18 -0.19 136.18" hpr="2.3 -177.7 12.6" scale="3.65 3.65 3.65"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-207.91 6.80 139.40" hpr="-4.1 33.9 10.3" scale="1.93 1.93 1.93"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-203.19 7.01 121.86" hpr="-7.7 -8.8 10.9" scale="2.62 2.62 2.62"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-189.32 10.91 137.86" hpr="75.2 96.0 85.1" scale="0.77 0.77 0.77"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-158.85 23.14 188.20" hpr="9.3 -168.6 7.3" scale="0.81 0.81 0.81"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-198.43 9.88 155.73" hpr="5.4 146.5 15.1" scale="3.05 3.05 3.05"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-170.70 14.08 141.70" hpr="-12.5 -44.5 14.0" scale="0.95 0.95 0.95"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-164.30 12.85 126.70" hpr="22.3 -123.6 -19.1" scale="4.14 4.14 4.14"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-179.28 11.66 128.12" hpr="10.7 159.5 9.0" scale="3.68 3.68 3.68"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-182.43 13.76 156.89" hpr="-6.3 -5.6 10.5" scale="2.25 2.25 2.25"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-153.07 13.30 133.74" hpr="69.7 -103.1 -70.5" scale="4.66 4.66 4.66"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-179.39 11.19 120.25" hpr="-17.9 48.0 -9.6" scale="0.12 0.12 0.12"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-163.03 17.25 158.44" hpr="88.1 -98.1 -80.9" scale="4.45 4.45 4.45"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-171.31 17.84 172.21" hpr="9.5 -145.5 3.9" scale="1.01 1.01 1.01"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-141.63 9.81 127.05" hpr="-24.3 26.6 -21.1" scale="0.31 0.31 0.31"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-97.82 -9.92 52.90" hpr="17.0 5.8 -178.4" scale="4.40 4.40 4.40"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-147.77 7.14 122.76" hpr="3.5 2.8 -7.1" scale="2.25 2.25 2.25"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-153.84 8.05 108.74" hpr="-6.3 -150.4 4.9" scale="4.19 4.19 4.19"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-155.54 7.20 151.94" hpr="-9.7 111.6 -20.5" scale="0.59 0.59 0.59"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-146.08 4.05 167.67" hpr="6.2 -24.2 -20.2" scale="0.17 0.17 0.17"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-139.25 1.97 170.76" hpr="-11.2 -134.2 -17.6" scale="3.15 3.15 3.15"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-140.71 3.51 159.11" hpr="-6.3 -170.8 -20.2" scale="2.87 2.87 2.87"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-153.89 6.29 161.57" hpr="-74.1 94.2 -86.4" scale="4.16 4.16 4.16"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-149.58 -5.20 176.15" hpr="-0.3 -45.2 -176.0" scale="0.77 0.77 0.77"/>
+    <static-object  lod_instance="true" lod_group="_single_lod_stklib_animGrass_a_main" xyz="-145.17 -4.88 155.11" hpr="-0.7 8.3 -174.5" scale="4.77 4.77 4.77"/>
+  </track>
   <object id="water" type="animation" xyz="-125.62 -7.97 162.18" hpr="-0.0 165.0 -0.0" scale="10.00 10.00 10.00" interaction="ghost" model="river.b3d" skeletal-animation="false">
     <animated-texture name="island_water.png" dy="0.1000" />
   </object>
@@ -16,6 +421,8 @@
                  forwards-distance ="1.50"
                  sidewards-distance="1.80"
                  upwards-distance  ="1.10"/>
+  <library name="stklib_animGrass_a" id="stklib_animGrass_a_main_proxy" xyz="0.00 0.00 0.00" hpr="0.0 -0.0 -90.0" scale="1.00 1.00 1.00">
+  </library>
   <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy" xyz="95.76 -11.96 58.61" hpr="16.9 11.8 4.3" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.001" xyz="67.99 -5.65 93.42" hpr="20.0 -135.9 -5.8" scale="0.62 0.62 0.62">
@@ -43,5 +450,83 @@
   <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.012" xyz="-201.06 5.13 104.39" hpr="-5.5 18.7 -0.6" scale="1.51 1.51 1.51">
   </library>
   <library name="stklib_pinetree_a" id="stklib_conifer_a_lodhi_proxy.013" xyz="-191.89 -6.49 36.00" hpr="-5.5 18.7 -0.6" scale="0.93 0.93 0.93">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy" xyz="64.84 -12.92 53.28" hpr="31.4 -0.0 0.0" scale="1.55 1.55 1.55">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.001" xyz="76.01 -13.27 81.26" hpr="30.2 157.4 32.2" scale="2.15 2.15 2.15">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.002" xyz="88.56 -8.22 115.01" hpr="33.4 134.1 31.4" scale="3.26 3.26 3.26">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.003" xyz="-6.58 4.16 161.69" hpr="-33.6 -119.5 47.3" scale="2.01 2.01 2.01">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.004" xyz="39.84 -0.22 159.13" hpr="-22.8 -102.2 -17.8" scale="2.01 2.01 2.01">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.005" xyz="-35.77 3.77 147.23" hpr="-33.6 -119.5 32.9" scale="3.49 3.49 3.49">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.006" xyz="-21.63 12.98 191.40" hpr="-129.4 21.3 104.2" scale="3.49 3.49 3.49">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.007" xyz="52.23 -1.69 198.23" hpr="-33.6 -119.5 32.9" scale="3.49 3.49 3.49">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.008" xyz="37.29 9.80 230.96" hpr="-80.0 15.1 -147.8" scale="2.78 2.78 2.78">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.009" xyz="-66.67 7.93 98.14" hpr="26.4 -123.0 -7.8" scale="5.40 5.40 5.40">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.010" xyz="-211.96 -8.47 47.71" hpr="10.1 -123.0 -7.8" scale="5.40 5.40 5.40">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.011" xyz="-243.28 -7.84 75.77" hpr="36.4 -131.7 -40.5" scale="3.12 3.12 3.12">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.012" xyz="-111.39 -1.60 64.30" hpr="-33.7 -80.8 20.3" scale="4.52 4.52 4.52">
+  </library>
+  <library name="stklib_fern_a" id="stklib_fern_a_main_proxy.013" xyz="-232.14 -7.26 12.31" hpr="-33.7 -80.8 20.3" scale="4.52 4.52 4.52">
+  </library>
+  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy" xyz="-29.47 5.69 145.86" hpr="0.0 -0.0 0.0" scale="3.00 3.00 3.00">
+  </library>
+  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.001" xyz="34.20 2.56 160.28" hpr="35.1 39.4 19.1" scale="4.79 4.79 4.79">
+  </library>
+  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.002" xyz="-203.27 -5.39 57.68" hpr="0.0 -0.0 0.0" scale="2.14 2.14 2.14">
+  </library>
+  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.003" xyz="-257.90 -6.14 43.55" hpr="-0.0 108.9 -0.0" scale="4.83 4.83 4.83">
+  </library>
+  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.004" xyz="-153.56 -11.28 20.06" hpr="0.0 -0.0 0.0" scale="2.66 2.66 2.66">
+  </library>
+  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy" xyz="36.62 -9.51 41.60" hpr="-0.0 -116.3 -0.0" scale="2.30 2.30 2.30">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy" xyz="80.32 -7.87 139.01" hpr="-14.5 3.1 -3.1" scale="2.63 2.63 2.63">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.001" xyz="80.32 -18.04 139.01" hpr="-147.0 -68.5 -47.1" scale="1.66 1.66 1.66">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.002" xyz="60.59 -5.98 159.74" hpr="-43.3 118.2 -43.7" scale="1.54 1.54 1.54">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.003" xyz="51.29 -20.07 143.69" hpr="136.7 61.8 -34.7" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.004" xyz="84.12 -16.71 165.10" hpr="-156.2 54.2 3.4" scale="1.13 1.13 1.13">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.005" xyz="93.92 -13.80 166.57" hpr="59.7 35.9 -64.5" scale="1.34 1.34 1.34">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.006" xyz="97.99 -13.80 152.50" hpr="100.4 117.3 14.7" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.007" xyz="72.69 -13.80 177.44" hpr="87.1 1.7 -6.7" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.008" xyz="47.46 -21.49 174.20" hpr="-176.5 -1.7 -22.1" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.009" xyz="67.62 -17.17 167.70" hpr="-147.0 -68.5 -47.1" scale="1.51 1.51 1.51">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.010" xyz="111.99 -9.99 149.95" hpr="17.6 176.9 6.5" scale="2.07 2.07 2.07">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.011" xyz="62.16 -20.88 125.54" hpr="-177.7 6.1 -10.9" scale="1.81 1.81 1.81">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.012" xyz="52.75 -6.67 133.76" hpr="15.3 126.5 -6.5" scale="2.51 2.51 2.51">
+  </library>
+  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.013" xyz="25.50 -9.79 149.00" hpr="22.3 24.5 4.2" scale="2.51 2.51 2.51">
+  </library>
+  <library name="stklib_waterLily_a" id="stklib_waterLily_a_main_proxy" xyz="-15.78 -22.63 -5.36" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_waterLily_a" id="stklib_waterLily_a_main_proxy.001" xyz="-60.00 -17.65 30.00" hpr="-8.1 -0.8 -5.6" scale="2.25 2.25 2.25">
+  </library>
+  <library name="stklib_waterLily_a" id="stklib_waterLily_a_main_proxy.002" xyz="-57.70 -13.83 64.63" hpr="14.5 104.3 12.6" scale="3.00 3.00 3.00">
+  </library>
+  <library name="stklib_waterLily_a" id="stklib_waterLily_a_main_proxy.003" xyz="-104.68 -8.84 92.00" hpr="-5.2 -0.3 -1.7" scale="2.25 2.25 2.25">
+  </library>
+  <library name="stklib_waterLily_a" id="stklib_waterLily_a_main_proxy.004" xyz="-31.46 -20.01 21.21" hpr="-5.2 -0.3 -1.7" scale="1.21 1.21 1.21">
   </library>
 </scene>
