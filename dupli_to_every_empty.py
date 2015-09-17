@@ -1,5 +1,7 @@
 #blender script
 #
+#By James Sherratt
+#
 #duplicates and transforms the selected object to every empty, and deletes all the empties
 #This script is a useful tool when making supertuxkart tracks.
 #
@@ -8,7 +10,7 @@
 #from a linked object, then converting the system to multiple objects will create brand 
 #new objects, not linked objects. This will make the stk track considerably less efficient
 #
-#By James Sherratt
+#needed improvements: gui, tidying up, increase efficiency
 #
 #This code licensed is under the MIT license.
 
@@ -24,6 +26,7 @@ def find_obj_ref():
         if bpy.data.objects[ref] == bpy.context.object:
             return ref
 
+#find the value of the selected object in the list of objects: bpy.data.objects
 def select(obj_ref):
     bpy.context.scene.objects.active = bpy.data.objects[obj_ref]
     bpy.data.objects[obj_ref].select = True
