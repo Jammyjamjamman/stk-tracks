@@ -1,6 +1,8 @@
 # stk-tracks
 My supertuxkart tracks
 
+Unless specified otherwise all files in this repository are licensed under the CC-BY-SA license.
+
 The folder for each track contains the exported track and the blend files I made for the track.
 
 I highly recommend reading tutorials on supertuxkart-track-making before you try using my blend files.
