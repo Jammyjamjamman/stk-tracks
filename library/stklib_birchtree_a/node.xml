@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- Generated with script from SVN rev 16407 -->
+<scene>
+  <lod>
+   <group name="_single_lod_birch_tree">
+    <static-object lod_distance="150" lod_group="_single_lod_birch_tree" model="birch_tree.b3d" xyz="0.00 0.00 0.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost" skeletal-animation="false"/>
+   </group>
+  </lod>
+  <object id="stklib_birchtree_a_main" type="animation" xyz="0.00 0.00 0.00" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00" interaction="ghost"  lod_instance="true" lod_group="_single_lod_birch_tree" model="birch_tree.b3d" skeletal-animation="false">
+  </object>
+</scene>

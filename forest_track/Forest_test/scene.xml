@@ -7392,6 +7392,170 @@
   </library>
   <library name="stklib_animGrass_a" id="stklib_animGrass_a_main_proxy.999" xyz="-52.88 8.50 166.34" hpr="-41.4 -56.9 28.8" scale="2.00 2.00 2.00">
   </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy" xyz="189.85 0.00 179.71" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.001" xyz="208.70 0.00 190.44" hpr="0.0 -0.0 -90.0" scale="1.00 1.00 1.00">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.002" xyz="47.32 -0.69 206.08" hpr="15.2 62.6 -0.3" scale="2.42 2.42 2.42">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.003" xyz="14.86 1.41 204.49" hpr="-32.0 -51.0 18.9" scale="3.99 3.99 3.99">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.004" xyz="64.96 -12.49 209.80" hpr="92.6 40.2 59.2" scale="0.45 0.45 0.45">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.005" xyz="118.97 -13.43 165.88" hpr="9.7 14.6 -51.2" scale="6.03 6.03 6.03">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.006" xyz="18.49 -10.18 46.27" hpr="-10.8 139.7 -10.2" scale="6.85 6.85 6.85">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.007" xyz="21.79 -9.20 33.49" hpr="11.9 -72.3 -8.4" scale="0.01 0.01 0.01">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.008" xyz="22.04 -9.06 30.67" hpr="-6.7 126.7 -1.1" scale="5.98 5.98 5.98">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.009" xyz="90.90 7.08 157.57" hpr="4.1 171.6 4.6" scale="7.04 7.04 7.04">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.010" xyz="117.11 -9.41 128.00" hpr="-2.6 163.4 -14.5" scale="6.44 6.44 6.44">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.011" xyz="107.16 -5.64 128.07" hpr="6.6 163.9 -13.0" scale="2.82 2.82 2.82">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.012" xyz="146.22 -1.97 89.12" hpr="-39.7 -106.4 46.7" scale="6.94 6.94 6.94">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.013" xyz="181.88 5.60 79.10" hpr="-13.7 -175.4 9.9" scale="2.48 2.48 2.48">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.014" xyz="130.42 -4.56 76.51" hpr="-1.9 173.7 14.2" scale="0.41 0.41 0.41">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.015" xyz="146.50 -0.25 53.50" hpr="1.6 137.4 16.0" scale="3.61 3.61 3.61">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.016" xyz="130.27 -4.55 75.19" hpr="1.7 -17.0 14.2" scale="1.26 1.26 1.26">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.017" xyz="138.13 -3.05 36.12" hpr="3.9 -16.1 7.4" scale="3.35 3.35 3.35">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.018" xyz="71.39 -2.95 28.51" hpr="19.8 29.6 16.0" scale="3.95 3.95 3.95">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.019" xyz="78.72 8.90 -5.05" hpr="-19.0 149.4 -1.0" scale="5.97 5.97 5.97">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.020" xyz="22.05 -6.98 9.24" hpr="-3.9 144.6 8.9" scale="3.21 3.21 3.21">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.021" xyz="69.87 4.85 1.56" hpr="14.9 -11.1 7.4" scale="1.99 1.99 1.99">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.022" xyz="74.76 9.03 -9.29" hpr="-17.7 146.3 0.7" scale="5.21 5.21 5.21">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.023" xyz="52.01 1.43 -1.20" hpr="92.3 -80.4 -77.7" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.024" xyz="52.28 -7.32 85.95" hpr="-76.5 68.5 -55.9" scale="0.48 0.48 0.48">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.025" xyz="76.87 -8.35 95.29" hpr="24.5 -3.0 -27.2" scale="4.63 4.63 4.63">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.026" xyz="84.76 -11.92 87.40" hpr="-38.7 -71.5 3.9" scale="1.26 1.26 1.26">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.027" xyz="-15.35 10.24 130.16" hpr="11.7 -47.5 -6.9" scale="5.85 5.85 5.85">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.028" xyz="5.07 9.97 132.35" hpr="2.8 -9.5 -3.8" scale="0.82 0.82 0.82">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.029" xyz="-42.17 6.96 135.90" hpr="14.0 36.0 14.5" scale="3.86 3.86 3.86">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.030" xyz="-79.02 4.09 149.61" hpr="-11.0 0.7 2.7" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.031" xyz="-36.74 6.71 80.74" hpr="33.4 160.3 13.1" scale="0.58 0.58 0.58">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.032" xyz="-80.29 2.86 124.79" hpr="-1.3 -16.9 21.1" scale="6.84 6.84 6.84">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.033" xyz="3.86 -9.37 56.63" hpr="-10.3 49.0 -15.1" scale="7.70 7.70 7.70">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.034" xyz="-50.02 -0.42 82.77" hpr="-148.2 -23.4 -55.8" scale="7.15 7.15 7.15">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.035" xyz="-53.84 17.03 184.04" hpr="56.6 -118.1 -52.6" scale="3.49 3.49 3.49">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.036" xyz="-40.67 27.74 206.21" hpr="-25.9 33.0 -8.8" scale="3.12 3.12 3.12">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.037" xyz="-89.40 5.68 160.34" hpr="26.2 -122.4 -15.7" scale="3.12 3.12 3.12">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.038" xyz="-111.29 6.13 175.70" hpr="26.2 125.0 35.9" scale="5.94 5.94 5.94">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.039" xyz="-69.22 14.74 182.62" hpr="-31.6 -55.5 35.0" scale="6.86 6.86 6.86">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.040" xyz="-105.21 1.49 152.37" hpr="-34.1 -56.9 46.8" scale="2.54 2.54 2.54">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.041" xyz="-107.46 -6.27 152.72" hpr="3.2 -16.9 170.7" scale="6.04 6.04 6.04">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.042" xyz="-205.82 -5.48 49.98" hpr="7.7 -116.7 0.1" scale="2.42 2.42 2.42">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.043" xyz="-223.00 -10.64 30.22" hpr="-10.0 3.0 7.3" scale="3.99 3.99 3.99">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.044" xyz="-163.37 -12.75 17.95" hpr="41.0 -129.1 -30.8" scale="0.45 0.45 0.45">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.045" xyz="-117.57 -18.02 0.04" hpr="27.5 119.4 25.5" scale="6.03 6.03 6.03">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.046" xyz="-170.37 2.81 66.88" hpr="-26.2 -39.3 24.2" scale="6.85 6.85 6.85">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.047" xyz="-149.85 4.66 67.45" hpr="23.2 152.4 12.5" scale="0.01 0.01 0.01">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.048" xyz="-147.55 2.17 61.57" hpr="-21.4 -3.0 2.4" scale="5.98 5.98 5.98">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.049" xyz="-122.25 4.35 73.36" hpr="-28.2 70.0 -39.6" scale="7.04 7.04 7.04">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.050" xyz="-77.53 -10.56 25.35" hpr="1.0 -179.6 -8.3" scale="6.44 6.44 6.44">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.051" xyz="-132.65 6.18 109.31" hpr="-13.5 121.7 -30.2" scale="2.82 2.82 2.82">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.052" xyz="-87.24 -18.52 -23.67" hpr="-1.6 -140.1 5.8" scale="6.94 6.94 6.94">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.053" xyz="-90.29 -16.69 -42.86" hpr="-13.1 -155.7 8.2" scale="2.48 2.48 2.48">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.054" xyz="-106.98 -19.98 -10.42" hpr="44.5 99.1 46.4" scale="0.41 0.41 0.41">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.055" xyz="-89.30 -12.54 -56.58" hpr="-29.3 -128.5 22.6" scale="3.61 3.61 3.61">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.056" xyz="-73.22 -14.72 -46.31" hpr="20.7 61.0 19.0" scale="1.26 1.26 1.26">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.057" xyz="-132.52 -11.43 -49.18" hpr="-33.9 104.6 -43.3" scale="3.35 3.35 3.35">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.058" xyz="-163.30 -8.57 -63.76" hpr="2.5 176.3 -3.3" scale="3.95 3.95 3.95">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.059" xyz="-219.47 -6.98 -47.24" hpr="-4.7 13.1 0.2" scale="5.97 5.97 5.97">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.060" xyz="-168.38 -3.95 -20.58" hpr="-30.2 -96.3 26.8" scale="3.21 3.21 3.21">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.061" xyz="-204.89 -6.66 -46.24" hpr="6.1 -145.6 -2.5" scale="1.99 1.99 1.99">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.062" xyz="-222.72 -6.48 -41.10" hpr="-4.6 20.9 -0.2" scale="5.21 5.21 5.21">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.063" xyz="-198.02 -5.04 -32.01" hpr="5.0 157.4 2.7" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.064" xyz="-254.71 -8.15 -50.56" hpr="-13.1 73.7 -10.1" scale="0.48 0.48 0.48">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.065" xyz="-276.54 -8.48 -40.99" hpr="2.6 -178.1 3.6" scale="4.63 4.63 4.63">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.066" xyz="-233.65 -4.81 -5.09" hpr="-1.0 125.2 -0.1" scale="1.26 1.26 1.26">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.067" xyz="-265.16 -7.12 50.21" hpr="-3.3 -104.3 5.4" scale="5.85 5.85 5.85">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.068" xyz="-279.96 -7.42 15.79" hpr="-0.6 -145.8 6.0" scale="0.82 0.82 0.82">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.069" xyz="-241.31 -1.92 123.00" hpr="-2.8 -34.8 13.8" scale="3.86 3.86 3.86">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.070" xyz="-227.93 0.76 115.62" hpr="-8.6 50.8 4.8" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.071" xyz="-186.48 3.62 102.62" hpr="54.3 149.3 20.3" scale="0.58 0.58 0.58">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.072" xyz="-186.29 10.47 120.43" hpr="-33.7 -70.2 38.3" scale="6.84 6.84 6.84">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.073" xyz="-163.99 20.64 181.00" hpr="10.5 144.9 15.2" scale="7.70 7.70 7.70">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.074" xyz="-177.60 17.71 180.68" hpr="9.2 144.4 16.1" scale="7.15 7.15 7.15">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.075" xyz="-175.65 17.13 173.24" hpr="-12.7 -54.0 20.2" scale="3.49 3.49 3.49">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.076" xyz="-124.31 -0.92 106.30" hpr="13.2 -61.4 -154.9" scale="3.12 3.12 3.12">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.077" xyz="-145.90 6.87 122.80" hpr="-30.0 97.5 -37.1" scale="3.12 3.12 3.12">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.078" xyz="-158.97 8.49 139.42" hpr="3.0 -26.2 -11.9" scale="5.94 5.94 5.94">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.079" xyz="-156.46 7.19 155.19" hpr="-3.7 167.5 -12.5" scale="6.86 6.86 6.86">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.080" xyz="-144.45 -4.82 152.41" hpr="-179.1 24.8 6.2" scale="2.54 2.54 2.54">
+  </library>
+  <library name="stklib_birchtree_a" id="stklib_birchtree_a_main_proxy.081" xyz="-137.62 -3.96 156.23" hpr="179.0 -7.1 15.0" scale="6.04 6.04 6.04">
+  </library>
   <library name="stklib_mushroom_a" id="stklib_mushroom_a_main_proxy.002" xyz="-52.63 9.33 138.47" hpr="17.0 -120.6 44.4" scale="5.13 5.13 5.13">
   </library>
   <library name="stklib_mushroom_a" id="stklib_mushroom_a_main_proxy.003" xyz="-133.46 29.21 129.57" hpr="-60.7 23.1 -162.6" scale="0.58 0.58 0.58">
@@ -7447,8 +7611,6 @@
   <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.017" xyz="-158.14 -10.33 22.90" hpr="29.2 -131.4 -22.2" scale="5.13 5.13 5.13">
   </library>
   <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.018" xyz="-116.77 -17.07 -38.44" hpr="-18.1 130.0 -22.3" scale="0.58 0.58 0.58">
-  </library>
-  <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.019" xyz="-123.60 -18.39 -23.13" hpr="-7.8 -173.9 -10.7" scale="6.82 6.82 6.82">
   </library>
   <library name="stklib_mushroom_b" id="stklib_mushroom_b_main_proxy.020" xyz="-136.85 -13.06 -25.01" hpr="-12.3 124.5 -31.0" scale="2.09 2.09 2.09">
   </library>
@@ -7916,10 +8078,6 @@
   </library>
   <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.025" xyz="-128.44 -18.86 -12.53" hpr="-0.9 136.8 -8.2" scale="0.52 0.52 0.52">
   </library>
-  <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.026" xyz="-121.77 -17.69 -30.16" hpr="15.7 -55.1 -24.3" scale="1.55 1.55 1.55">
-  </library>
-  <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.027" xyz="-146.54 -8.59 -26.74" hpr="-11.4 112.1 -31.8" scale="1.79 1.79 1.79">
-  </library>
   <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.028" xyz="-185.21 -8.18 -61.38" hpr="4.9 177.2 -0.5" scale="0.63 0.63 0.63">
   </library>
   <library name="stklib_pinetree_a" id="stklib_pinetree_a_main_proxy.029" xyz="-170.70 -3.81 -18.39" hpr="12.6 70.3 8.7" scale="0.67 0.67 0.67">
@@ -8048,17 +8206,9 @@
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.060" xyz="-97.08 -19.35 -23.28" hpr="-3.0 -131.5 4.8" scale="1.44 1.44 1.44">
   </library>
-  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.061" xyz="-119.89 -19.52 -21.23" hpr="6.8 21.7 -6.3" scale="2.86 2.86 2.86">
-  </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.062" xyz="-131.81 -19.55 -4.80" hpr="-53.3 -78.5 50.8" scale="3.58 3.58 3.58">
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.063" xyz="-97.84 -14.90 -49.50" hpr="77.8 73.4 77.3" scale="0.41 0.41 0.41">
-  </library>
-  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.064" xyz="-141.92 -10.94 -25.52" hpr="9.1 -47.0 -29.5" scale="2.18 2.18 2.18">
-  </library>
-  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.065" xyz="-146.93 -8.75 -23.27" hpr="7.1 21.4 -20.0" scale="2.59 2.59 2.59">
-  </library>
-  <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.066" xyz="-141.32 -11.19 -25.79" hpr="79.6 84.2 56.8" scale="2.72 2.72 2.72">
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.067" xyz="-151.23 -7.23 -42.25" hpr="3.7 117.4 -8.4" scale="0.02 0.02 0.02">
   </library>
@@ -8117,10 +8267,6 @@
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.096" xyz="-157.05 8.32 135.34" hpr="-2.7 -150.4 -9.1" scale="3.94 3.94 3.94">
   </library>
   <library name="stklib_redFlowerBush_a" id="stklib_redFlowerBush_a_main_proxy.099" xyz="-157.80 8.01 144.83" hpr="-7.1 116.7 -17.3" scale="0.29 0.29 0.29">
-  </library>
-  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy" xyz="156.10 -12.06 163.98" hpr="0.0 -0.0 0.0" scale="1.00 1.00 1.00">
-  </library>
-  <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.001" xyz="156.10 -12.06 163.98" hpr="-0.0 -0.0 90.0" scale="1.00 1.00 1.00">
   </library>
   <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.002" xyz="44.61 2.05 108.75" hpr="-48.2 -157.9 -55.9" scale="2.57 2.57 2.57">
   </library>
@@ -8221,5 +8367,165 @@
   <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.050" xyz="28.32 -22.23 140.02" hpr="-11.9 -29.4 -170.2" scale="0.45 0.45 0.45">
   </library>
   <library name="stklib_roots_a" id="stklib_roots_a_main_proxy.051" xyz="68.25 -20.79 118.01" hpr="-74.5 -66.0 -116.4" scale="1.82 1.82 1.82">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.002" xyz="17.74 1.54 207.63" hpr="61.9 78.0 61.6" scale="3.00 3.00 3.00">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.003" xyz="27.95 1.37 208.25" hpr="0.2 -38.7 -2.5" scale="6.04 6.04 6.04">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.004" xyz="73.94 4.33 176.53" hpr="0.8 -154.2 9.4" scale="1.76 1.76 1.76">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.005" xyz="71.40 1.61 159.63" hpr="2.8 174.4 16.3" scale="0.81 0.81 0.81">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.006" xyz="113.75 -8.26 60.56" hpr="-25.4 -102.6 37.0" scale="5.44 5.44 5.44">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.007" xyz="16.71 -9.64 44.71" hpr="-9.2 -134.8 3.4" scale="7.46 7.46 7.46">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.008" xyz="18.48 -8.12 17.47" hpr="59.0 -86.4 -50.3" scale="1.91 1.91 1.91">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.009" xyz="50.68 -8.98 39.82" hpr="-20.0 -129.5 19.4" scale="5.89 5.89 5.89">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.010" xyz="92.95 -1.87 130.20" hpr="-54.3 -72.8 41.9" scale="6.48 6.48 6.48">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.011" xyz="162.59 3.52 74.04" hpr="19.5 -65.9 -6.4" scale="7.37 7.37 7.37">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.012" xyz="138.30 -4.57 97.45" hpr="28.5 -71.3 -22.0" scale="5.85 5.85 5.85">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.013" xyz="171.58 8.54 56.31" hpr="1.6 -34.5 14.4" scale="2.11 2.11 2.11">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.014" xyz="152.06 0.11 35.78" hpr="2.7 -114.7 10.5" scale="4.23 4.23 4.23">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.015" xyz="125.32 -5.86 66.37" hpr="1.5 33.1 14.8" scale="6.97 6.97 6.97">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.016" xyz="128.34 -5.04 37.74" hpr="7.5 -21.2 3.1" scale="7.71 7.71 7.71">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.017" xyz="170.48 8.23 57.20" hpr="-1.5 173.0 15.1" scale="1.48 1.48 1.48">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.018" xyz="120.57 -6.40 45.69" hpr="-12.6 -123.3 17.6" scale="6.80 6.80 6.80">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.019" xyz="138.18 0.40 12.06" hpr="13.4 5.4 1.8" scale="3.93 3.93 3.93">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.020" xyz="94.80 0.55 22.31" hpr="-20.1 179.4 0.6" scale="1.30 1.30 1.30">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.021" xyz="100.60 -6.11 40.62" hpr="66.8 72.2 67.1" scale="3.90 3.90 3.90">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.022" xyz="50.90 -2.53 14.16" hpr="12.7 -23.3 5.0" scale="7.24 7.24 7.24">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.023" xyz="41.37 -2.21 2.47" hpr="6.8 1.4 14.2" scale="0.67 0.67 0.67">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.024" xyz="34.68 -4.32 5.90" hpr="36.0 -80.4 -22.8" scale="0.09 0.09 0.09">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.025" xyz="59.67 0.63 8.50" hpr="-13.6 -161.0 15.5" scale="1.22 1.22 1.22">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.026" xyz="72.36 1.98 13.48" hpr="-39.6 116.4 -28.7" scale="6.44 6.44 6.44">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.027" xyz="35.13 -2.88 -9.99" hpr="-42.6 91.7 -24.9" scale="1.60 1.60 1.60">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.028" xyz="150.41 -10.25 120.38" hpr="-23.6 -131.3 17.0" scale="7.53 7.53 7.53">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.029" xyz="59.97 -4.87 91.74" hpr="-19.6 -38.2 6.3" scale="5.10 5.10 5.10">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.030" xyz="54.89 -14.71 75.26" hpr="-48.3 6.0 -3.5" scale="1.75 1.75 1.75">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.031" xyz="28.06 0.68 171.53" hpr="-40.5 153.3 -35.3" scale="1.06 1.06 1.06">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.032" xyz="33.58 5.60 159.64" hpr="18.4 36.6 -13.3" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.033" xyz="26.30 7.53 152.72" hpr="21.4 -62.3 -30.6" scale="1.56 1.56 1.56">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.034" xyz="2.30 3.61 86.66" hpr="-89.7 -66.8 69.7" scale="4.63 4.63 4.63">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.035" xyz="-20.71 -7.86 54.14" hpr="34.3 121.9 34.9" scale="2.42 2.42 2.42">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.036" xyz="-18.48 -9.78 41.49" hpr="-70.6 -81.2 82.2" scale="7.73 7.73 7.73">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.037" xyz="-90.47 -3.22 127.01" hpr="-74.8 -54.7 139.6" scale="0.29 0.29 0.29">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.038" xyz="8.24 -8.58 44.13" hpr="-13.6 -101.8 8.9" scale="2.17 2.17 2.17">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.039" xyz="-58.75 2.25 89.42" hpr="-32.7 13.4 131.6" scale="6.04 6.04 6.04">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.040" xyz="-57.75 7.20 162.18" hpr="17.8 -168.0 -8.3" scale="3.94 3.94 3.94">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.041" xyz="-100.30 6.16 168.81" hpr="-18.4 40.5 -2.1" scale="2.39 2.39 2.39">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.042" xyz="-227.36 -10.05 40.30" hpr="-3.3 -18.2 13.6" scale="3.00 3.00 3.00">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.043" xyz="-220.81 -8.45 41.83" hpr="10.7 120.1 19.9" scale="6.04 6.04 6.04">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.044" xyz="-173.27 -11.76 21.27" hpr="36.4 133.1 31.1" scale="1.76 1.76 1.76">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.045" xyz="-139.66 -13.30 14.61" hpr="70.7 109.8 70.5" scale="0.81 0.81 0.81">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.046" xyz="-193.39 -3.63 57.32" hpr="8.4 -175.0 6.2" scale="5.44 5.44 5.44">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.047" xyz="-171.07 1.74 64.65" hpr="-24.7 36.3 -8.6" scale="7.46 7.46 7.46">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.048" xyz="-128.26 6.21 96.27" hpr="11.1 57.7 -13.0" scale="1.91 1.91 1.91">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.049" xyz="-123.79 -0.75 56.75" hpr="-27.8 47.8 -27.0" scale="5.89 5.89 5.89">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.050" xyz="-105.50 -10.84 19.38" hpr="-14.1 -33.6 9.1" scale="6.48 6.48 6.48">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.051" xyz="-134.18 6.40 111.20" hpr="12.2 55.7 -5.8" scale="7.37 7.37 7.37">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.052" xyz="-103.18 -13.57 10.62" hpr="18.1 150.0 12.3" scale="5.85 5.85 5.85">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.053" xyz="-70.54 -15.80 -37.80" hpr="7.5 31.6 6.1" scale="2.11 2.11 2.11">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.054" xyz="-93.53 -18.17 -33.04" hpr="9.3 -39.7 -3.3" scale="4.23 4.23 4.23">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.055" xyz="-116.49 -19.99 -8.82" hpr="-18.7 -73.3 16.8" scale="6.97 6.97 6.97">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.056" xyz="-130.03 -17.96 -15.48" hpr="34.2 79.1 22.4" scale="7.71 7.71 7.71">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.057" xyz="-82.96 -10.49 -62.31" hpr="92.2 -74.4 -95.5" scale="1.48 1.48 1.48">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.058" xyz="-132.01 -13.39 -35.04" hpr="8.3 -13.8 -17.5" scale="6.80 6.80 6.80">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.059" xyz="-35.24 -16.33 -36.68" hpr="19.1 61.9 4.3" scale="3.93 3.93 3.93">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.060" xyz="-152.81 -6.82 -40.92" hpr="-9.3 -77.7 -1.7" scale="1.30 1.30 1.30">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.061" xyz="-169.60 -6.07 -43.33" hpr="8.5 -120.3 -9.5" scale="3.90 3.90 3.90">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.062" xyz="-176.23 -5.74 -40.41" hpr="4.6 -179.4 -1.4" scale="7.24 7.24 7.24">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.063" xyz="-187.20 -4.62 -27.72" hpr="3.8 -126.7 -3.6" scale="0.67 0.67 0.67">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.064" xyz="-179.16 -4.40 -25.49" hpr="4.4 99.9 2.8" scale="0.09 0.09 0.09">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.065" xyz="-188.96 -6.20 -43.86" hpr="-9.9 59.9 -8.6" scale="1.22 1.22 1.22">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.066" xyz="-189.16 -7.59 -56.23" hpr="-7.4 -45.3 5.1" scale="6.44 6.44 6.44">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.067" xyz="-199.74 -4.09 -15.42" hpr="-1.5 -164.2 -0.1" scale="1.60 1.60 1.60">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.068" xyz="-180.49 -4.32 -8.02" hpr="-36.5 -119.7 27.1" scale="7.53 7.53 7.53">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.069" xyz="-260.47 -5.99 -3.92" hpr="-2.3 53.3 2.1" scale="5.10 5.10 5.10">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.070" xyz="-266.44 -6.30 14.73" hpr="-2.5 102.1 1.6" scale="1.75 1.75 1.75">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.071" xyz="-250.86 -6.41 -24.83" hpr="-2.7 -10.2 3.4" scale="1.06 1.06 1.06">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.072" xyz="-225.66 -4.47 -5.89" hpr="1.5 -28.1 -0.6" scale="3.13 3.13 3.13">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.073" xyz="-265.43 -6.89 44.27" hpr="-1.1 -178.6 2.4" scale="1.56 1.56 1.56">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.074" xyz="-288.24 -10.88 103.45" hpr="0.4 44.5 9.2" scale="4.63 4.63 4.63">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.075" xyz="-222.26 3.20 142.31" hpr="2.8 179.5 13.0" scale="2.42 2.42 2.42">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.076" xyz="-158.86 16.58 152.95" hpr="21.9 -115.7 -14.9" scale="7.73 7.73 7.73">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.077" xyz="-172.76 19.35 184.06" hpr="30.5 -105.8 -19.1" scale="0.29 0.29 0.29">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.078" xyz="-149.94 18.88 161.93" hpr="-14.5 47.3 -5.6" scale="2.17 2.17 2.17">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.079" xyz="-175.78 14.86 154.63" hpr="-11.8 -54.2 18.3" scale="6.04 6.04 6.04">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.080" xyz="-34.89 -20.75 -29.93" hpr="155.5 13.9 14.2" scale="3.94 3.94 3.94">
+  </library>
+  <library name="stklib_willowtree_a" id="stklib_willowtree_a_main_proxy.081" xyz="-105.30 -6.40 63.00" hpr="18.4 2.8 -178.3" scale="2.39 2.39 2.39">
   </library>
 </scene>
