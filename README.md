@@ -19,7 +19,7 @@ extra lib models from stk game
 
 TODO:
 
--add more foresty-objects
--finish polishing track
--decorate big tree
--make a driveline
+-add more foresty-objects\n
+-finish polishing track\n
+-decorate big tree\n
+-make a driveline\n
