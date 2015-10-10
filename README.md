@@ -14,12 +14,17 @@ The track-folders which contain blend files require the stk_media_repo repositor
 Credits:
 
 James Sherratt (forest track)
+
 Models from megaglest strategy: Titi_linux (birch tree, willow tree) CC-BY-SA-license
+
 extra lib models from stk game
 
 TODO:
 
--add more foresty-objects\n
--finish polishing track\n
--decorate big tree\n
--make a driveline\n
+-add more foresty-objects
+
+-finish polishing track
+
+-decorate big tree
+
+-make a driveline
